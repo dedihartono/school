@@ -11,8 +11,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="{{ asset('assets/templates/Mentor/assets/img/favicon.png') }}" rel="icon">
-    <link href="{{ asset('assets/templates/Mentor/assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
+    <link href="{{ asset('assets/templates/Mentor/assets/img/favicon.png?v=1.0.0') }}" rel="icon">
+    <link href="{{ asset('assets/templates/Mentor/assets/img/apple-touch-icon.png?v=1.0.0') }}" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link
