@@ -30,7 +30,7 @@
     <link href="{{ asset('assets/templates/Mentor/assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
 
     <!-- Template Main CSS File -->
-    <link href="{{ asset('assets/templates/Mentor/assets/css/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/templates/Mentor/assets/css/style.css?v=1.0.0') }}" rel="stylesheet">
 
     <!-- =======================================================
   * Template Name: Mentor
