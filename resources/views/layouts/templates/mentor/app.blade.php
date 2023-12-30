@@ -28,6 +28,7 @@
     <link href="{{ asset('assets/templates/Mentor/assets/vendor/boxicons/css/boxicons.min.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/templates/Mentor/assets/vendor/remixicon/remixicon.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/templates/Mentor/assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/templates/Mentor/assets/vendor/slick/slick.css') }}" rel="stylesheet">
 
     <!-- Template Main CSS File -->
     <link href="{{ asset('assets/templates/Mentor/assets/css/style.css?v=1.0.0') }}" rel="stylesheet">
@@ -49,7 +50,7 @@
 
             @include('components.logo')
 
-           @include('components.navbar')
+            @include('components.navbar')
 
         </div>
     </header><!-- End Header -->
@@ -79,6 +80,8 @@
     <script src="{{ asset('assets/templates/Mentor/assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
     <script src="{{ asset('assets/templates/Mentor/assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
     <script src="{{ asset('assets/templates/Mentor/assets/vendor/php-email-form/validate.js') }}"></script>
+    <script src="{{ asset('assets/templates/Mentor/assets/vendor/jquery/jquery-3.7.1.min.js') }}"></script>
+    <script src="{{ asset('assets/templates/Mentor/assets/vendor/slick/slick.min.js') }}"></script>
 
     <!-- Template Main JS File -->
     <script src="{{ asset('assets/templates/Mentor/assets/js/main.js') }}"></script>
