@@ -5,24 +5,11 @@
                 <img src="{{ asset('assets/templates/Mentor/assets/img/about.jpg') }}" class="img-fluid" alt="">
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-                <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-                <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore
-                    magna aliqua.
-                </p>
-                <ul>
-                    <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat.</li>
-                    <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate
-                        velit.</li>
-                    <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda
-                        mastiro dolore eu fugiat nulla pariatur.</li>
-                </ul>
+                <h3>Tentang Kami</h3>
                 <p>
-                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                    reprehenderit in voluptate
+                    Sekolah yang berlokasi di Kabupaten Bandung namun dengan manajemen yang baik dan tim yang handal.
+                    kini SMK KP PAsirjambu berkembang pesat dan mulai dapat bersaing untuk menciptakan lulusan yang
+                    kompeten di dunia kerja.
                 </p>
             </div>
         </div>

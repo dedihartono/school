@@ -37,12 +37,13 @@
                     </ul>
                 </div>
 
-                <div class="col-lg-4 col-md-6 footer-newsletter">
-                    <h4>Join Our Newsletter</h4>
+                <div class="col-lg-4 col-md-6 footer-links">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3959.267552838295!2d107.474755!3d-7.094955000000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68ed5b0e88ef21%3A0x4be407d6c9800ce3!2sSMK%20Karya%20Pembangunan%20Pasir%20Jambu!5e0!3m2!1sen!2sus!4v1704031177647!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    {{-- <h4>Join Our Newsletter</h4>
                     <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
                     <form action="" method="post">
                         <input type="email" name="email"><input type="submit" value="Subscribe">
-                    </form>
+                    </form> --}}
                 </div>
 
             </div>

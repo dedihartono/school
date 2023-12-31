@@ -2,8 +2,8 @@
     <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-            <h2>Courses</h2>
-            <p>Popular Courses</p>
+            <h2>Acara</h2>
+            <p>Kegiatan Sekolah</p>
         </div>
 
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
@@ -14,7 +14,7 @@
                         alt="...">
                     <div class="course-content">
                         <div class="d-flex justify-content-between align-items-center mb-3">
-                            <h4>Web Development</h4>
+                            <h4>Pencapaian</h4>
                             <p class="price">$169</p>
                         </div>
 
@@ -43,7 +43,7 @@
                         alt="...">
                     <div class="course-content">
                         <div class="d-flex justify-content-between align-items-center mb-3">
-                            <h4>Marketing</h4>
+                            <h4>Extrakuliler</h4>
                             <p class="price">$250</p>
                         </div>
 

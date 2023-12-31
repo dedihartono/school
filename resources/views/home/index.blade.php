@@ -21,7 +21,7 @@
     <!-- End Why Us Section -->
 
     <!-- ======= Features Section ======= -->
-    @include('home.components.features')
+    {{-- @include('home.components.features') --}}
     <!-- End Features Section -->
 
     <!-- ======= Popular Courses Section ======= -->
