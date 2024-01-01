@@ -7,9 +7,6 @@
                     <p>
                         Tinggalkan Jejak Prestasi dan Karakter Unggul di SMK KP Pasir Jambu!
                     </p>
-                    {{-- <div class="text-center">
-                        <a href="about.html" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
-                    </div> --}}
                 </div>
             </div>
             <div class="col-lg-8 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
